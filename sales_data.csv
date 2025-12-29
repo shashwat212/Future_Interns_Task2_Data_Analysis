@@ -1,0 +1,11 @@
+OrderID,Date,Region,Category,Sales,Profit
+1,2024-01-05,North,Electronics,75000,12000
+2,2024-01-10,South,Clothing,1500,300
+3,2024-01-15,East,Furniture,4200,800
+4,2024-02-05,West,Electronics,30000,5000
+5,2024-02-10,North,Clothing,3200,700
+6,2024-02-15,South,Furniture,8500,1500
+7,2024-03-01,East,Electronics,4500,900
+8,2024-03-05,West,Clothing,5200,1200
+9,2024-03-12,North,Furniture,25000,6000
+10,2024-03-20,South,Electronics,18000,3500
